@@ -31,15 +31,7 @@ _[English](README.md) | 中文_
 
 1. 
 2. 
-3. 编辑 XXX 文件，进行以下操作：（设置 App ID 和 Token 的 config 文件）
-
-   - 将 `YOUR APP ID` 替换为你的 App ID。
-   - 将 `YOUR ACCESS TOKEN` 替换为你的 Access Token。
-
-   ```xml
-   <string name="agora_app_id" translatable="false">YOUR APP ID</string>
-   <string name="agora_access_token" translatable="false">YOUR ACCESS TOKEN</string>
-   ```
+3. 在 XXX 文件中设置你的 App ID 和 Token。
 
    > 参考 [校验用户权限](https://docs.agora.io/cn/Agora%20Platform/token) 了解如何获取 App ID 和 Token。你可以获取一个临时 token，快速运行示例项目。
    >
