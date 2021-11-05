@@ -28,9 +28,11 @@ The project uses a single app to combine a variety of functionalities.
 
 ### Steps to run
 
+**Steps from cloning the code to running the project**
+
 1. 
 2. 
-3.
+3. Open xxx file and specify your App ID and Token.
 
    > See [Set up Authentication](https://docs.agora.io/en/Agora%20Platform/token) to learn how to get an App ID and access token. You can get a temporary access token to quickly try out this sample project.
    >
@@ -39,6 +41,8 @@ The project uses a single app to combine a variety of functionalities.
    > To ensure communication security, Agora uses access tokens (dynamic keys) to authenticate users joining a channel.
    >
    > Temporary access tokens are for demonstration and testing purposes only and remain valid for 24 hours. In a production environment, you need to deploy your own server for generating access tokens. See [Generate a Token](https://docs.agora.io/en/Interactive%20Broadcast/token_server) for details.
+
+4. 
 
 You are all set! Feel free to play with this sample project and explore features of the Agora RTC SDK.
 
