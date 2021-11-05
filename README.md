@@ -6,7 +6,7 @@ _English | [中文](README.zh.md)_
 
 This repository contains sample projects using the Agora RTC XXX SDK .
 
-**image_of_a_running_project**
+*image_of_a_running_project*
 
 ## Project structure
 
@@ -28,7 +28,7 @@ The project uses a single app to combine a variety of functionalities.
 
 ### Steps to run
 
-**Steps from cloning the code to running the project**
+*Steps from cloning the code to running the project*
 
 1. 
 2. 
