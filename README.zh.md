@@ -60,8 +60,8 @@ _[English](README.md) | 中文_
 - 如果你想了解更多官方示例，可以参考[官方 SDK 示例](https://github.com/AgoraIO)
 - 如果你想了解声网 SDK 在复杂场景下的应用，可以参考[官方场景案例](https://github.com/AgoraIO-usecase)
 - 如果你想了解声网的一些社区开发者维护的项目，可以查看[社区](https://github.com/AgoraIO-Community)
-- 若遇到问题需要开发者帮助，你可以到[开发者社区](https://rtcdeveloper.com/) 提问
-- 如果需要售后技术支持, 你可以在[Agora Dashboard](https://dashboard.agora.io) 提交工单
+- 若遇到问题需要开发者帮助，你可以到[开发者社区](https://rtcdeveloper.com/)提问
+- 如果需要售后技术支持, 你可以在[Agora Dashboard](https://dashboard.agora.io)提交工单
 
 ## 代码许可
 
