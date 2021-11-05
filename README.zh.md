@@ -27,9 +27,11 @@ _[English](README.md) | 中文_
 
 ### 运行步骤
 
+**从拉取仓库到成功运行的全部步骤**
+
 1. 
 2. 
-3. 
+3. 编辑 XXX 文件，进行以下操作：（设置 App ID 和 Token 的 config 文件）
 
    - 将 `YOUR APP ID` 替换为你的 App ID。
    - 将 `YOUR ACCESS TOKEN` 替换为你的 Access Token。
@@ -47,6 +49,7 @@ _[English](README.md) | 中文_
    >
    > 临时 Token 仅作为演示和测试用途。在生产环境中，你需要自行部署服务器签发 Token，详见[生成 Token](https://docs.agora.io/cn/Interactive%20Broadcast/token_server)。
 
+4. 
 
 一切就绪。你可以自由探索示例项目，体验 SDK 的丰富功能。
 
