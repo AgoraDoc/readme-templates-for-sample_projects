@@ -1,4 +1,4 @@
-# Android 示例项目
+# <标题> *标题应当简明扼要地描述项目，例如 “声网 Agora RTC Android SDK 示例项目”*
 
 _[English](README.md) | 中文_
 
@@ -22,15 +22,17 @@ _[English](README.md) | 中文_
 
 ### 前提条件
 
-- 
-- 
+*开发者成功运行所需的必要条件，包括硬件要求、操作系统要求、其他依赖等*
+
+- 必要条件 1
+- 必要条件 2
 
 ### 运行步骤
 
 *从拉取仓库到成功运行的全部步骤*
 
-1. 
-2. 
+1. *步骤 1*
+2. *步骤 2*
 3. 在 XXX 文件中设置你的 App ID 和 Token。
 
    > 参考 [开始使用 Agora 平台](https://docs.agora.io/cn/Agora%20Platform/get_appid_token) 了解如何获取 App ID 和 Token。你可以获取一个临时 token，快速运行示例项目。
@@ -41,7 +43,7 @@ _[English](README.md) | 中文_
    >
    > 临时 Token 仅作为演示和测试用途。在生产环境中，你需要自行部署服务器签发 Token，详见[生成 Token](https://docs.agora.io/cn/Interactive%20Broadcast/token_server)。
 
-4. 
+4. *继续步骤直至成功运行项目并看到实际效果。*
 
 一切就绪。你可以自由探索示例项目，体验 SDK 的丰富功能。
 
