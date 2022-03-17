@@ -1,4 +1,4 @@
-# *Description of the project, such as Sample projects for the Agora RTC Android SDK*
+# <Title> *The title should be a brief description of the project, such as "Sample projects for the Agora RTC Android SDK"*
 
 _English | [中文](README.zh.md)_
 
